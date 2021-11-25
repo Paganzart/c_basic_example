@@ -2,7 +2,7 @@
 
 int main()
 {
-    int a, b, suma, resta;
+    int a, b, suma, resta, multiplicacion, division;
 
     printf("Ingrese a: ");
     scanf("%d", &a);
@@ -17,5 +17,8 @@ int main()
 
     multiplicacion = a * b;
     printf("El resultado de la multiplicacion es: %d\n");
+
+    division = a /b;
+    printf("El resultado de la division es: %d\n");,
     return 0;
 }
