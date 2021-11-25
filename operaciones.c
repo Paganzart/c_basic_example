@@ -15,5 +15,7 @@ int main()
     resta = a - b;
     printf("El resultado de la resta es: %d\n");
 
+    multiplicacion = a * b;
+    printf("El resultado de la multiplicacion es: %d\n");
     return 0;
 }
