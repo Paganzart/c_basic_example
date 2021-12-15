@@ -19,6 +19,6 @@ int main()
     printf("El resultado de la multiplicacion es: %d\n");
 
     division = a /b;
-    printf("El resultado de la division es: %d\n");,
+    printf("El resultado de la division es: %d\n");
     return 0;
 }
